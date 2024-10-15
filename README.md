@@ -9,7 +9,7 @@ Formado pela EBAC, em busca de novas oportunidades para continuar meu desenvolvi
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoRbt&repo=landing-page&theme=dark)](https://github.com/BrunoRbt/landing-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoRbt&repo=Efood&theme=dark)](https://github.com/BrunoRbt/Efood)
 
 
 ### Linguagens utilizadas
