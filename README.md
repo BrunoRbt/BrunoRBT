@@ -14,7 +14,7 @@ Formado pela EBAC, em busca de novas oportunidades para continuar meu desenvolvi
 
 ### Linguagens Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRBT&layout=compact&theme=dark&title_color=58a6ff&cache_seconds=30)](https://github.com/BrunoRbt/Efood)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRBT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
