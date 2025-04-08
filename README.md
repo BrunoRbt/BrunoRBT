@@ -79,4 +79,4 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 ## 🌱 Atualmente Estudando
 - 🌐 Inglês Intermediário (CNA)
 - 🤖 Inteligência Artificial (EBAC)
-- 💻 Aprofundando conhecimentos em React e Django
+- 💻 Aprofundando conhecimentos em React e Python
