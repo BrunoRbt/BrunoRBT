@@ -67,13 +67,13 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=BrunoRBT&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=BrunoRBT&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
       </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRBT&layout=compact&theme=dark&title_color=58a6ff&hide_border=true" />
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRBT&layout=compact&theme=dark&title_color=58a6ff&hide_border=true&langs_count=6" />
       </td>
     </tr>
   </table>
