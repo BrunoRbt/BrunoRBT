@@ -47,7 +47,7 @@ Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecno
 ### 📱 [Portfólio Pessoal](https://meu-portfolio-dun-six.vercel.app/)
 Meu site de portfólio desenvolvido com as tecnologias mais recentes para apresentar meus projetos e habilidades.
 
-### 🎮 [Landing Page - Curso League of Legends](https://exerc-cio-m-dulo-14.vercel.app/#contato)
+### 🎮 [Landing Page - Curso League of Legends](https://exerc-cio-m-dulo-14.vercel.app/)
 Desenvolvimento de uma landing page responsiva e interativa utilizando HTML5, CSS3 e Bootstrap, com práticas semânticas para garantir acessibilidade.
 
 ### 🎵 [Landing Page - Knotfest Festival](https://landing-page-one-sable-52.vercel.app/)
