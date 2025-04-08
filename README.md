@@ -94,6 +94,6 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 - 🐱 [GitHub](https://github.com/BrunoRBT)
 
 ## 🌱 Atualmente Estudando
-- 🌐 [Inglês Intermediário (CNA)](https://www.instagram.com/cnacaruaru/)
+- 🌐 [Inglês Intermediário (CNA)](https://www.cna.com.br/)
 - 🤖 [Inteligência Artificial (Google)](https://cloud.google.com/?hl=pt-BR)
 - 💻 Aprofundando conhecimentos em React e Python
