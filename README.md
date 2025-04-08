@@ -59,7 +59,7 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 ## 💼 Experiência Profissional
 
 ### 🌐 Autenticare - Inteligência Artificial para Empresas (Dez 2024)
-**Desenvolvedor Full Stack Google Cloud Platform | Autônomo PJ | Remota**
+**Desenvolvedor Full Stack Google Cloud Platform | Autônomo PJ | Remoto**
 - Atuo como desenvolvedor full stack especializado em soluções baseadas na Google Cloud Platform (GCP)
 - Desenvolvo aplicações utilizando Python no backend e React no frontend, com foco em performance, escalabilidade e segurança
 - Sou responsável pela criação, deploy e gerenciamento de aplicações na GCP, utilizando serviços como Cloud Run, Compute Engine, Cloud Storage, Firestore e Cloud SQL
