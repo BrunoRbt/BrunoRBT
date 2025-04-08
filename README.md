@@ -58,6 +58,14 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 
 ## 💼 Experiência Profissional
 
+### 🌐 Autenticare - Inteligência Artificial para Empresas (Dez 2024 - o momento)
+**Desenvolvedor Full Stack Google Cloud Platform | Autônomo | Remota**
+- Atuo como desenvolvedor full stack especializado em soluções baseadas na Google Cloud Platform (GCP)
+- Desenvolvo aplicações utilizando Python no backend e React no frontend, com foco em performance, escalabilidade e segurança
+- Sou responsável pela criação, deploy e gerenciamento de aplicações na GCP, utilizando serviços como Cloud Run, Compute Engine, Cloud Storage, Firestore e Cloud SQL
+- Emprego recursos de Inteligência Artificial do Google, como o Vertex AI, para automação de processos, análise de dados e desenvolvimento de soluções inteligentes
+- Também trabalho com integração de APIs do Google e arquiteturas modernas baseadas em microsserviços e serverless
+
 ### 🎮 League of Legends North America (2019-2024)
 **Coach (Prestação de serviços como PJ)**
 - Treinamento técnico de jogadores
@@ -86,6 +94,6 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 - 🐱 [GitHub](https://github.com/BrunoRBT)
 
 ## 🌱 Atualmente Estudando
-- 🌐 Inglês Intermediário (CNA)
-- 🤖 Inteligência Artificial (EBAC)
+- 🌐 [Inglês Intermediário (CNA)](https://www.instagram.com/cnacaruaru/)
+- 🤖 [Inteligência Artificial (Google)](https://cloud.google.com/?hl=pt-BR)
 - 💻 Aprofundando conhecimentos em React e Python
