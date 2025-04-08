@@ -37,22 +37,23 @@ Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecno
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 
 ## 🚀 Projetos Destacados
 
-### 📱 [Portfólio Pessoal](https://github.com/BrunoRbt/portifolio)
+### 📱 [Portfólio Pessoal](https://meu-portfolio-dun-six.vercel.app/)
 Meu site de portfólio desenvolvido com as tecnologias mais recentes para apresentar meus projetos e habilidades.
 
-### 🎮 [Landing Page - Curso League of Legends](https://github.com/BrunoRbt/curso-lol)
+### 🎮 [Landing Page - Curso League of Legends](https://exerc-cio-m-dulo-14.vercel.app/#contato)
 Desenvolvimento de uma landing page responsiva e interativa utilizando HTML5, CSS3 e Bootstrap, com práticas semânticas para garantir acessibilidade.
 
-### 🎵 [Landing Page - Knotfest Festival](https://github.com/BrunoRbt/knotfest)
+### 🎵 [Landing Page - Knotfest Festival](https://landing-page-one-sable-52.vercel.app/)
 Página promocional interativa para o festival Knotfest, com design imersivo, vídeo de fundo e contagem regressiva dinâmica.
 
-### 🍔 [Efood - React & TypeScript](https://github.com/BrunoRbt/efood)
+### 🍔 [Efood - React & TypeScript](https://efood-pj.vercel.app/)
 Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seguindo arquitetura modular e boas práticas de desenvolvimento.
 
 ## 💼 Experiência Profissional
@@ -71,7 +72,7 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 
 ## 📫 Contato
 - 📧 Email: richard2oliver1@gmail.com
-- 📱 Telefone: (81) 99737-4007
+- 📱 [WhatsApp](https://w.app/us4u1n)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-roberto-devr/)
 - 🐱 [GitHub](https://github.com/BrunoRBT)
 
@@ -79,5 +80,3 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 - 🌐 Inglês Intermediário (CNA)
 - 🤖 Inteligência Artificial (EBAC)
 - 💻 Aprofundando conhecimentos em React e Django
-
-<!-- Inspirado pela jornada de aprendizagem Full Stack Python da EBAC -->
