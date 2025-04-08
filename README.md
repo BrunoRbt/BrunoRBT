@@ -88,7 +88,7 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 </div>
 
 ## 📫 Contato
-- 📧 Email: richard2oliver1@gmail.com
+- 📧 [richard2oliver1@gmail.com](mailto:richard2oliver1@gmail.com)
 - 📱 [WhatsApp](https://w.app/us4u1n)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-roberto-devr/)
 - 🐱 [GitHub](https://github.com/BrunoRBT)
