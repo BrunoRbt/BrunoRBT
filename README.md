@@ -44,7 +44,7 @@ Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecno
 
 ## 🚀 Projetos Destacados
 
-### 📱 [Portfólio Pessoal](https://bruno-dev-inky.vercel.app/)
+### 📱 [Portfólio Pessoal](https://bruno-developer-bay.vercel.app/)
 Meu site de portfólio desenvolvido com as tecnologias mais recentes para apresentar meus projetos e habilidades.
 
 ### 🎮 [Landing Page - Curso League of Legends](https://exerc-cio-m-dulo-14.vercel.app/)
