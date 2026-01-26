@@ -4,7 +4,7 @@
 Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecnologia desde criança e tenho facilidade na lógica de programação. Possuo experiência em projetos web, criando interfaces responsivas e dinâmicas, além de aplicações escaláveis com Python. Sou dedicado a entregar soluções de alta qualidade, utilizando as melhores práticas de desenvolvimento.
 
 ## 🎓 Formação
-- 🖥️ **Desenvolvedor Full Stack Python** | EBAC | 2024  
+- 🖥️ **Desenvolvedor Full Stack Python** | EBAC | 2024  
 - 🏫 **Ensino Médio** | Escola Prof. Elisete Lopes de Lima Pires | 2018
 
 ## 🛠️ Habilidades Técnicas
@@ -58,33 +58,33 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 
 ## 💼 Experiência Profissional
 
-### 🌐 Autenticare - Inteligência Artificial para Empresas (Dez 2024)
+### 🌐 Autenticare - Inteligência Artificial para Empresas (Nov 2024 - Atual)
 **Desenvolvedor Full Stack Google Cloud Platform | Autônomo PJ | Remoto**
-- Atuo como desenvolvedor full stack especializado em soluções baseadas na Google Cloud Platform (GCP)
-- Desenvolvo aplicações utilizando Python no backend e React no frontend, com foco em performance, escalabilidade e segurança
-- Sou responsável pela criação, deploy e gerenciamento de aplicações na GCP, utilizando serviços como Cloud Run, Compute Engine, Cloud Storage, Firestore e Cloud SQL
-- Emprego recursos de Inteligência Artificial do Google, como o Vertex AI, para automação de processos, análise de dados e desenvolvimento de soluções inteligentes
-- Também trabalho com integração de APIs do Google e arquiteturas modernas baseadas em microsserviços e serverless
+- [cite_start]Atuo como desenvolvedor full stack especializado em soluções baseadas na Google Cloud Platform (GCP)[cite: 24].
+- [cite_start]Desenvolvo aplicações utilizando Python no backend e React no frontend, com foco em performance, escalabilidade e segurança[cite: 25].
+- [cite_start]Sou responsável pela criação, deploy e gerenciamento de aplicações na GCP, utilizando serviços como Cloud Run, Compute Engine, Cloud Storage, Firestore e Cloud Functions[cite: 26].
+- [cite_start]Emprego recursos de Inteligência Artificial do Google, como o Vertex AI, para automação de processos, análise de dados e desenvolvimento de soluções inteligentes[cite: 27].
+- [cite_start]Também trabalho com integração de APIs do Google e arquiteturas modernas baseadas em microsserviços e serverless[cite: 28].
 
-### 🎮 League of Legends North America (2019-2024)
-**Coach (Prestação de serviços como PJ)**
-- Treinamento técnico de jogadores
-- Escalação de ranking de contas
-- Análise detalhada de replays e revisão de partidas
+### 💻 Bruno TI (Ago 2018 - Set 2024)
+**Desenvolvedor Full Stack | Remoto**
+- [cite_start]Atuei como desenvolvedor Full Stack criando soluções completas para hospitais, academias e farmácias, com foco em automação de processos, eficiência operacional e experiência do usuário[cite: 20].
+- [cite_start]Desenvolvi sistemas escaláveis utilizando Python, React/Next, integrações avançadas e pipelines de CI/CD, garantindo entregas rápidas, seguras e de alto impacto[cite: 21].
+- [cite_start]Implementei APIs, automatizações e plataformas que reduziram custos, diminuíram o tempo de atendimento e otimizaram fluxos internos, além de construir aplicativos e ferramentas voltadas ao usuário final[cite: 22].
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=BrunoRBT&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-      </td>
-      <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRBT&layout=compact&theme=dark&title_color=58a6ff&hide_border=true&langs_count=6" />
-      </td>
-    </tr>
-  </table>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=BrunoRBT&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+      </td>
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRBT&layout=compact&theme=dark&title_color=58a6ff&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📫 Contato
