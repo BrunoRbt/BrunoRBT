@@ -1,4 +1,4 @@
-# 👨‍💻 Bruno Roberto | Desenvolvedor Full Stack Python
+# 👨‍💻 Bruno Roberto | Desenvolvedor Full Stack
 
 ## 🚀 Sobre Mim
 Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecnologia desde criança e tenho facilidade na lógica de programação. Possuo experiência em projetos web, criando interfaces responsivas e dinâmicas, além de aplicações escaláveis com Python. Sou dedicado a entregar soluções de alta qualidade, utilizando as melhores práticas de desenvolvimento.
