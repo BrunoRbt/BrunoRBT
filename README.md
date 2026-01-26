@@ -47,6 +47,9 @@ Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecno
 ### 📱 [Portfólio Pessoal](https://bruno-developer-bay.vercel.app/)
 Meu site de portfólio desenvolvido com as tecnologias mais recentes para apresentar meus projetos e habilidades.
 
+### 📸 [Photo Album Manager](https://fotos-86105.web.app/login)
+Um gerenciador de álbuns fotográficos completo, com sistema de autenticação seguro e interface intuitiva para organização de memórias.
+
 ## 💼 Experiência Profissional
 
 ### 🌐 Autenticare - Inteligência Artificial para Empresas (Nov 2024 - Atual)
