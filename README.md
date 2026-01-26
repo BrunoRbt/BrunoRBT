@@ -60,17 +60,17 @@ Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seg
 
 ### 🌐 Autenticare - Inteligência Artificial para Empresas (Nov 2024 - Atual)
 **Desenvolvedor Full Stack Google Cloud Platform | Autônomo PJ | Remoto**
-- [cite_start]Atuo como desenvolvedor full stack especializado em soluções baseadas na Google Cloud Platform (GCP)[cite: 24].
-- [cite_start]Desenvolvo aplicações utilizando Python no backend e React no frontend, com foco em performance, escalabilidade e segurança[cite: 25].
-- [cite_start]Sou responsável pela criação, deploy e gerenciamento de aplicações na GCP, utilizando serviços como Cloud Run, Compute Engine, Cloud Storage, Firestore e Cloud Functions[cite: 26].
-- [cite_start]Emprego recursos de Inteligência Artificial do Google, como o Vertex AI, para automação de processos, análise de dados e desenvolvimento de soluções inteligentes[cite: 27].
-- [cite_start]Também trabalho com integração de APIs do Google e arquiteturas modernas baseadas em microsserviços e serverless[cite: 28].
+- Atuo como desenvolvedor full stack especializado em soluções baseadas na Google Cloud Platform (GCP).
+- Desenvolvo aplicações utilizando Python no backend e React no frontend, com foco em performance, escalabilidade e segurança.
+- Sou responsável pela criação, deploy e gerenciamento de aplicações na GCP, utilizando serviços como Cloud Run, Compute Engine, Cloud Storage, Firestore e Cloud Functions.
+- Emprego recursos de Inteligência Artificial do Google, como o Vertex AI, para automação de processos, análise de dados e desenvolvimento de soluções inteligentes.
+- Também trabalho com integração de APIs do Google e arquiteturas modernas baseadas em microsserviços e serverless.
 
 ### 💻 Bruno TI (Ago 2018 - Set 2024)
 **Desenvolvedor Full Stack | Remoto**
-- [cite_start]Atuei como desenvolvedor Full Stack criando soluções completas para hospitais, academias e farmácias, com foco em automação de processos, eficiência operacional e experiência do usuário[cite: 20].
-- [cite_start]Desenvolvi sistemas escaláveis utilizando Python, React/Next, integrações avançadas e pipelines de CI/CD, garantindo entregas rápidas, seguras e de alto impacto[cite: 21].
-- [cite_start]Implementei APIs, automatizações e plataformas que reduziram custos, diminuíram o tempo de atendimento e otimizaram fluxos internos, além de construir aplicativos e ferramentas voltadas ao usuário final[cite: 22].
+- Atuei como desenvolvedor Full Stack criando soluções completas para hospitais, academias e farmácias, com foco em automação de processos, eficiência operacional e experiência do usuário.
+- Desenvolvi sistemas escaláveis utilizando Python, React/Next, integrações avançadas e pipelines de CI/CD, garantindo entregas rápidas, seguras e de alto impacto.
+- Implementei APIs, automatizações e plataformas que reduziram custos, diminuíram o tempo de atendimento e otimizaram fluxos internos, além de construir aplicativos e ferramentas voltadas ao usuário final.
 
 ## 📊 Estatísticas GitHub
 
