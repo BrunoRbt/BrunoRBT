@@ -47,15 +47,6 @@ Formado pela EBAC em Desenvolvimento Full Stack Python, sou apaixonado por tecno
 ### 📱 [Portfólio Pessoal](https://bruno-developer-bay.vercel.app/)
 Meu site de portfólio desenvolvido com as tecnologias mais recentes para apresentar meus projetos e habilidades.
 
-### 🎮 [Landing Page - Curso League of Legends](https://exerc-cio-m-dulo-14.vercel.app/)
-Desenvolvimento de uma landing page responsiva e interativa utilizando HTML5, CSS3 e Bootstrap, com práticas semânticas para garantir acessibilidade.
-
-### 🎵 [Landing Page - Knotfest Festival](https://landing-page-one-sable-52.vercel.app/)
-Página promocional interativa para o festival Knotfest, com design imersivo, vídeo de fundo e contagem regressiva dinâmica.
-
-### 🍔 [Efood - React & TypeScript](https://efood-pj.vercel.app/)
-Aplicação de pedidos de comida online desenvolvida com React e TypeScript, seguindo arquitetura modular e boas práticas de desenvolvimento.
-
 ## 💼 Experiência Profissional
 
 ### 🌐 Autenticare - Inteligência Artificial para Empresas (Nov 2024 - Atual)
