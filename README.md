@@ -108,8 +108,14 @@ App Android de rastreamento veicular: GPS em tempo real por foreground service, 
   - [Evaluate and Improve Agent Development Kit Agents](https://drive.google.com/file/d/1utStk7fmfUMz0rXmoSt3PFsgFw_EaagT/view?usp=sharing)
   - [Govern Agent Access with Gemini Enterprise Agent Platform](https://drive.google.com/file/d/1MmG9hbhi_wRhp20uk7vKc3uNJUM1NkwA/view?usp=sharing)
   - [Deploy Gemini Enterprise with Workspace Data Sources and Model Armor](https://drive.google.com/file/d/16Ix2uX6MBz_G4iCkajmkgqUS6lHJ_bNf/view?usp=sharing)
+  - [Add Agents to Gemini Enterprise](https://drive.google.com/file/d/1vHzMBTs3h_Ao-XNCRarYvfFupiP1f-De/view?usp=sharing)
+  - [Extend Gemini Enterprise Assistant Capabilities](https://drive.google.com/file/d/1tt5KZyobA-uyEX_uxdhORSFVHHvS3ei_/view?usp=sharing)
+  - [Deploy Google Agentspace](https://drive.google.com/file/d/1svIrFnTYeCUqtwmO8vRDo_tb7JPTVdrs/view?usp=sharing)
   - [Accelerate Development with Antigravity](https://drive.google.com/file/d/1nXtHKceLEchUj64jwSmPgWhVgtHerbv-/view?usp=sharing)
-- 🖥️ **[Desenvolvedor Full Stack Python](https://drive.google.com/file/d/1l7vFWBcr2CwG957_BmEUxEf-PP7TiOok/view?usp=sharing)** | EBAC | 2023 - 2024
+- 🖥️ **Curso Profissionalizante** | EBAC | 2023 - 2024
+  - [Desenvolvedor Full Stack Python](https://drive.google.com/file/d/1l7vFWBcr2CwG957_BmEUxEf-PP7TiOok/view?usp=sharing)
+  - [TI do Zero ao Pro](https://drive.google.com/file/d/1DQYk0jMalgZQQEa43l7W8NA21StFeuiz/view?usp=sharing)
+  - [Plano de Carreira](https://drive.google.com/file/d/1UeBNw3sFf0v-pF6Nm4IIk0wl3WoIUq5p/view?usp=sharing)
 - 🏫 **Ensino Médio** | Escola Prof. Elisete Lopes de Lima Pires | 2018
 
 ## 📊 Estatísticas GitHub
