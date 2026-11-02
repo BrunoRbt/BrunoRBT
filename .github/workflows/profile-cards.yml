@@ -27,3 +27,4 @@ jobs:
           BRANCH_NAME: main
           TIME_ZONE: America/Recife
           THEME: github_dark
+          EXCLUDE: HTML
