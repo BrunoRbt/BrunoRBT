@@ -1,0 +1,29 @@
+name: Cards do perfil
+
+# Gera os cards de estatísticas como SVG dentro do próprio repositório,
+# sem depender de serviço externo (o github-readme-stats.vercel.app saiu do ar).
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 03:00 de Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-cards.yml"]
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Com o secret SUMMARY_GITHUB_TOKEN (PAT) os números incluem repositórios privados;
+          # sem ele, usa o token padrão e conta só o que é público.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          TIME_ZONE: America/Recife
+          THEME: github_dark
