@@ -61,7 +61,7 @@ App Android de rastreamento veicular: GPS em tempo real por foreground service, 
 ![SQS/SNS](https://img.shields.io/badge/-SQS%2FSNS-FF4F8B?style=flat-square)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Observabilidade (Cloud Monitoring, CloudWatch)](https://img.shields.io/badge/-Observabilidade_(Cloud_Monitoring%2C_CloudWatch)-555555?style=flat-square)
+![Observabilidade (Cloud Monitoring, CloudWatch)](https://img.shields.io/badge/-Observabilidade_%28Cloud_Monitoring%2C_CloudWatch%29-555555?style=flat-square)
 
 ### 🧠 IA Generativa
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
